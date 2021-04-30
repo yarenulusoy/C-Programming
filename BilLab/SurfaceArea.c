@@ -1,3 +1,6 @@
+/*a-) Yarıçap uzunluğu 7cm olan bir kürenin  b-) bir kenar uzunluğu 23cm olan bir küpün 
+yüzey alanlarını hesaplayıp ekrana yazdıran programı kodlayınız */
+
 #include <stdio.h>
 #include <stdlib.h>
 int recursive(int i){
