@@ -1,7 +1,5 @@
 /* Kullanıcıdan alınan sayının Armstrong olup olmadığını kontrol ediniz. */
 
-//ŞÜHEDA YAREN ULUSOY 200201128
-
 #include <stdio.h>
 #include <stdlib.h>
 
